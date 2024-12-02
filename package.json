@@ -15,7 +15,7 @@
     "deploy":"gh-pages -d build"
 
   },
-  "homepage": "https://github.com/olla12/onlineShop",
+  "homepage": "https://github.com/olla12/Ecommerce",
   "dependencies": {
     "axios": "^1.7.7",
     "bootstrap": "^5.3.3",
